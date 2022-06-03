@@ -2,3 +2,7 @@ sql/
 weekOneBasics/
 weekOneRemontada/docker_sql/yellow_tripdata_2021-01.csv
 weekOneRemontada/docker_sql/yellow_tripdata_2021-01.csv.1
+weekOneRemontada/docker_sql/ny_taxi_postgres_data/
+weekOneRemontada/docker_sql/output.csv
+weekOneRemontada/docker_sql/taxi_zone_lookup.csv
+venv/
